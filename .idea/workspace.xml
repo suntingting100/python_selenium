@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f58f96eb-434b-43c1-8d22-de2d7ef82df2" name="Default Changelist" comment="" />
+    <list default="true" id="f58f96eb-434b-43c1-8d22-de2d7ef82df2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,8 +28,8 @@
         <option value="suntingting100 &lt;617587058@qq.com&gt;" />
       </list>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MyTest" />
   </component>
   <component name="ProjectId" id="1lPNMXtYPSHflyXBfvLOYHlfJTa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,7 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -185,6 +188,7 @@
       <workItem from="1561945904136" duration="1106000" />
       <workItem from="1607494724041" duration="815000" />
       <workItem from="1607495556684" duration="293000" />
+      <workItem from="1607664413192" duration="185000" />
     </task>
     <task id="LOCAL-00001" summary="随便">
       <created>1569574843229</created>
@@ -277,6 +281,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="2019/9/29 11:57" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607664455664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607664455664" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1607495560338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
